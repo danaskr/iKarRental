@@ -1,0 +1,40 @@
+[
+    {
+        "fullname": "Admin ",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$10$Oy.d8v3lapp1e7kLEU8MAuK7UQFTxxq82Ai34SLg.aiRGAtDa8OKS",
+        "is_admin": true,
+        "rented_cars": [
+            {
+                "car_id": 3,
+                "from_date": "2025-01-16",
+                "to_date": "2025-01-30"
+            }
+        ]
+    },
+    {
+        "fullname": "dana saker",
+        "email": "dana@saker.com",
+        "password": "$2y$10$mWiHgKdxLJGxaor3TkJlIea5F6Edea.H6aU9fhDGfP6e5mu0Warl2",
+        "is_admin": false,
+        "rented_cars": [
+            {
+                "car_id": 10,
+                "from_date": "2025-01-13",
+                "to_date": "2025-01-20"
+            },
+            {
+                "car_id": 5,
+                "from_date": "2025-01-18",
+                "to_date": "2025-01-31"
+            }
+        ]
+    },
+    {
+        "fullname": "Algo rithm",
+        "email": "algo@gmail.com",
+        "password": "$2y$10$7NGgCCBWntmiKR7JAUDZ6euktfmPByecA5ZXsn3wGZDRmb0L8UCmK",
+        "rented_cars": [],
+        "is_admin": true
+    }
+]
